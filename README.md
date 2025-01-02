@@ -1,5 +1,5 @@
-- 👋 多年WEB开发者
-- 👀 多年c++、Qt开发者
-- 🌱 Like use React
-- 💞️ Like use SFML
-- 📫 2D游戏开发者、虚幻5开发者
+- 👋 php,react developer
+- 👀 c++,Qt developer
+- 🌱 java developer
+- 💞️ like to use sfml,ogre
+- 📫 born in 1985, still single
