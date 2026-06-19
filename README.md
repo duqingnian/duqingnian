@@ -1,9 +1,6 @@
-- 👋 php,react developer
-- 👀 c++,Qt developer
-- 🌱 java developer
-- 💞️ like to use sfml,ogre
-- 📫 born in 1985
+- 👋 基础功法：php、react、c++、Qt、Java
+- 👀 扩展功法：sfml、ogre
+- 🌱 我的php开源项目（3）：1.企业网站管理系统、2.留言板系统、3.论坛系统
+- 💞️ 我的c++开源项目（3）：1.windows工具刀、2.LinuxSCP、3.SEChat，Simple，Easy
+- 📫 我的java开源项目（3）：1.开发中、2.开发中、3.开发中
 
-[![C++ Codes](https://img.shields.io/badge/-C%2B%2B%20Codes-d62728?style=for-the-badge&labelColor=d62728&color=d62728)](https://github.com/duqingnian/cpp_codes)
-
-[![More about me](https://img.shields.io/badge/More%20about%20me-%23fff?style=flat-square&color=217645)](https://duilib.dev)
