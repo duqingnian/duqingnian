@@ -12,7 +12,6 @@ I maintain [zzxdz.com](https://zzxdz.com), where I share personal projects and o
 | [Music](https://music.zzxdz.com/) | Favorite songs, classic tracks, and background music. |
 | [Movie](https://movie.zzxdz.com/) | A personal collection of films and TV series. |
 | [Archive](https://archive.zzxdz.com/) | Interesting websites and snapshots worth preserving. |
-| [Zhenzhen Farm](https://nc.zzxdz.com/) | A browser farming game with persistent progress and offline crop growth. |
 
 ## Technologies
 
